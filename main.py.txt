@@ -1,3 +1,5 @@
+git config --global user.nome = "meu nome"
+git config --global user.email = "meu email"
 git status
 git add
 git commit
