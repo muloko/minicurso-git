@@ -9,3 +9,5 @@ git log
 git checkout -b getname 		(Ja cria a branch no caso se chama getname)
 
 git more add origin https://github.com/TrekRoX/minicurso-git.git
+
+Mais uma entrada
